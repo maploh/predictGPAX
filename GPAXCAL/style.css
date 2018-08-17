@@ -39,7 +39,7 @@ h3{
     
 }
 
-.button{    
+button{    
 
     margin-top: 20px;
     padding:10px;
@@ -53,7 +53,7 @@ h3{
     
 }
 
-.button:hover{
+button:hover{
     background-color: white;
     border: solid 2px white;
     color: #2f2f2f;
